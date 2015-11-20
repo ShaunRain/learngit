@@ -1,3 +1,7 @@
 third git txt
 my boss is an asshole
-branch master write
+<<<<<<< HEAD
+branch feat write
+=======
+branch feat write
+>>>>>>> feat
